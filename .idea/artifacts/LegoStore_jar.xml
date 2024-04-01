@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LegoStore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LegoStore_jar</output-path>
+    <root id="archive" name="LegoStore.jar">
+      <element id="module-output" name="LegoStore" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../postgresql-42.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
